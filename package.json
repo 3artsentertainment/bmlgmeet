@@ -1,0 +1,25 @@
+{
+  "name": "bmlg-meet-with-artist",
+  "version": "1.0.0",
+  "description": "A secure, multi-step web form enabling fans to apply for exclusive meetings with Big Machine Label Group artists.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Big Machine Label Group",
+    "Artist Meeting",
+    "Fan Application",
+    "Express",
+    "Web Form",
+    "PDF Generation",
+    "Signature Capture",
+    "Photo Verification"
+  ],
+  "author": "Big Machine Label Group",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
